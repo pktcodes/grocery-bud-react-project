@@ -7,7 +7,7 @@
 - **Input** box which takes the names of a grocery item and adds it to the list along with the page title *Grocery Bud*.
 - Functionality is 
   - By default when the application loads, the input will be empty.
-  - Once an item name is provided in the input and click submit, the item gets added to the list with an alert **Item Added To The List**.
+  - Once an item name is provided in the input and click **`Submit`**, the item gets added to the list with an alert **Item Added To The List**.
   - Every single item added to the list has **`Edit`** and **`Delete`** buttons along with the name.
   - If the user wants to edit an item, the `Edit` button can be clicked which gives an option to rename the item in the input and submit it with an alert **Item Edited**.
   - If the user wants to delete an item, the `Delete` button can be clicked which deletes the item from the list with an alert **Item Removed**.
